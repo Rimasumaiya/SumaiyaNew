@@ -1,0 +1,48 @@
+<suit name="Regression">
+
+<listeners>
+<listener class-name="com.bit.test.Baselistener">
+</listener>
+
+
+</listeners>
+
+<test name="uitest">
+<packages>
+<package>
+
+</package>
+
+
+</packages>
+
+<classes>
+<class name="com.bit.test.SmokeTest">
+
+<methods>
+
+<include name="test1">
+
+
+
+</include>
+<class name="com.bit.test.SmokeTest">
+<test name="grouptest">
+
+
+</test>
+<packages>
+
+<package name="com.bit.test">
+
+</package>
+</packages>
+
+</class>
+
+</methods>
+</class >
+</classes> 
+
+</test>
+</suit>

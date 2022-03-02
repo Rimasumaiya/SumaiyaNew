@@ -1,0 +1,27 @@
+<suit name="">
+
+<test name="">
+<parameter name="browser" value="chrome">
+<parameter name="url" value="goggle.com">
+
+<classes>
+
+<class name="com.bit.test.smoketest">
+
+
+</class>
+
+
+</classes>
+
+</parameter>
+</parameter>
+
+
+
+</test>
+
+
+
+
+</suit>

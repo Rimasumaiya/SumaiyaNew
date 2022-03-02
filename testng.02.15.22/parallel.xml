@@ -1,0 +1,25 @@
+<suit name="" parallel="tests">
+
+<test name="">
+
+
+<classes>
+
+<class name="com.bit.test.smoketest">
+
+
+</class>
+
+
+</classes>
+
+
+
+
+
+</test>
+
+
+
+
+</suit>
